@@ -1,0 +1,9 @@
+9;Fait jaillir une épée de lumière
+2;Fonce tête en avant
+3;Demande une frappe aérienne
+7;Donne un high kick
+5;Cogne l'ennemi avec son crâne
+6;Conduit une bène à ordures
+1;Fais un dab
+8;Tacle
+4;S'équipe d'un parapluie

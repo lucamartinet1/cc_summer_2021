@@ -1,0 +1,9 @@
+6;Jette un tas de détritus sur la cible
+1;Fais 2 dab
+7;Esquive en comprimant son corps pour se faire tout petit
+3;Se réfugie dans un bunker
+5;Contracte tous ses muscles pour augmenter sa Défense
+8;Saute
+2;Esquive en faisant un saute-mouton
+9;Sors le bouclier des ténèbres
+4;Jette toutes sortes de projectiles
