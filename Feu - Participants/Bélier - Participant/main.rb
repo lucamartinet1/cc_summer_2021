@@ -1,5 +1,9 @@
 require './verification'
-allrubies = [] << allrubies[i]=line;
+allrubies = [] 
+File.open("rubies.txt", "w+")
+    puts(allrubies)
+  end
+
 > "ruby" 
 
 def getrubies:
