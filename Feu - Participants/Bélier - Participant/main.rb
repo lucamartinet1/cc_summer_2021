@@ -1,5 +1,5 @@
 require './verification'
-allrubies = [] << 
+allrubies = [] << allrubies[i]=line;
 > "ruby" 
 
 def getrubies:
