@@ -1,8 +1,8 @@
 require './verification'
+allrubies = []
+> "ruby" 
 
 def getrubies
-    allrubies = []
-    > "ruby" 
     line_num=0
 text=File.open('rubies.txt').read
 text.gsub!(/\r\n?/, "\n")
