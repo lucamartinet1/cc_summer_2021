@@ -28,4 +28,4 @@ def verification(rubis)
 
 end
 
-
+verification(" _________\n/_|_____|_\\\n'. \\   / .'\n  '.\\ /.'\n    '.'\n")
