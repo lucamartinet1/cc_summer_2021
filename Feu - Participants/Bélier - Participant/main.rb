@@ -10,11 +10,12 @@ def getrubies()
         else 
             allrubies << rubies
             rubies = ""
-        
         end
-
     end
     return allrubies
 end
 puts getrubies()
 print(getrubies)
+
+
+
